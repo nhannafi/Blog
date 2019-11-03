@@ -1,2 +1,2 @@
-# BlogTest
+# Blog
 Blog communautaire
